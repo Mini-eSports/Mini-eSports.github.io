@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mini_esports.twa",
+      "sha256_cert_fingerprints": [
+        "28:E9:53:45:4E:0C:CA:E7:AE:FE:99:79:A1:51:70:A0:03:B5:0F:63:AB:8A:D8:F6:C7:A0:DB:61:56:F9:98:E3"
+      ]
+    }
+  }
+]
